@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>components/icon/24x24/success</title>
+    <defs>
+        <path d="M21.5216797,5.47826983 C22.1594401,6.11603027 22.1594401,7.15004425 21.5216797,7.78780469 L10.4282889,18.8811955 C9.79052847,19.5189559 8.75651449,19.5189559 8.11875405,18.8811955 L8.04449769,18.8018238 L3.40408635,13.4984966 C2.81016164,12.8197255 2.87894323,11.7880017 3.55771432,11.194077 C4.23649579,10.6001432 5.26822884,10.6688984 5.86219803,11.3476489 L9.35272623,15.3364041 L19.2120775,5.4782025 C19.8499161,4.84057287 20.8838782,4.84060302 21.5216797,5.47826983 Z" id="path-1"></path>
+    </defs>
+    <g id="components/icon/24x24/success" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="icon" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>
